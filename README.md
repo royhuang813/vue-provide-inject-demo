@@ -1,2 +1,23 @@
 # vue-provide-inject-demo
-在vue中使用provide/inject实现跨组件通信demo
+
+本demo项目展示了在vue中如何使用provide/inject实现跨多级组件通信
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run dev
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
